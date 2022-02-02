@@ -1,0 +1,140 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    
+    
+    margin: 0 auto;
+}
+
+header{
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+    position: fixed;;
+    top: 0;
+    
+}
+
+.logo{
+    width: 40%;
+    float: left ;
+}
+
+.menu{
+    width: 60%;
+    height: 75px;
+    float: left;
+    
+}
+
+nav ul{
+    list-style: none;
+    margin: 0px 0px 10px 170px;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+nav ul li a {
+    color: #161616;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+a:hover { 
+    background-color: #0f0; 
+} 
+
+.button{
+    border-style: solid;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    color: #ffffff;
+    border-color: #0209af;
+    background-color: #0209af;
+    border-radius: 4px;
+    padding-top: 16px;
+    padding-right: 30px;
+    padding-bottom: 16px;
+    padding-left: 30px;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 1;
+    letter-spacing: 0.5px;
+}
+
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+     }
+
+.signinbutton{
+    float: right;
+    margin-right: 50px;
+}
+
+.button2{
+
+}
+
+.icon1{
+    width: 25%;
+}
+
+.icon2{
+    width: 25%;
+}
+
+.icon3{
+    width: 25%;
+}
+
+.icon4{
+    width: 25%;
+}
+
+.banner2{
+    background: grey;
+    height: 90px;
+    width: 50%;
+    float: left;
+}
+
+.banner3{
+    background: grey;
+    height: 90px;
+    width: 50%;
+    float: left;
+}
+
+.list1 ul {
+    list-style: none;
+    margin-left: 450px;
+    padding: 10px;
+    width: 50%;
+}
+
+.list2 ul {
+    list-style: none;
+    margin-left: 50px;
+    padding: 10px;
+    width: 50%;
+}
+
